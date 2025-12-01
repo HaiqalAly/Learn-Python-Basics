@@ -13,12 +13,12 @@ The primary goal of this repository is to create a comprehensive, easily referen
 
 | Folder | Section Name | Description | Type |
 | :--- | :--- | :--- | :--- |
-| `01_Fundamentals` | **Python Fundamentals** | Basic syntax, variables, data types, operators, and user input. | **Concept Notes** |
-| `02_ControlFlow` | **Control Flow** | Conditionals (`if/elif/else`), looping constructs (`for`, `while`), and program execution logic. | **Concept Notes** |
-| `03_DataManipulation` | **Data Manipulation (Strings)** | Operations like indexing, slicing, methods, and formatting strings. | **Concept Notes** |
-| `04_DataStructures` | **Core Data Structures** | Detailed notes on Lists, Tuples, Dictionaries, and Sets. | **Concept Notes** |
-| `99_Exercises` | **Practice Exercises** | Focused, single-file problems designed to test and solidify understanding. | **Practice** |
-| `100_MiniProjects` | **Mini Projects** | Practical applications of learned concepts through small, self-contained programs. | **Application** |
+| `01_fundamentals` | **Python Fundamentals** | Basic syntax, variables, data types, operators, and user input. | **Concept Notes** |
+| `02_control_flow` | **Control Flow** | Conditionals (`if/elif/else`), looping constructs (`for`, `while`), and program execution logic. | **Concept Notes** |
+| `03_data_manipulation` | **Data Manipulation (Strings)** | Operations like indexing, slicing, methods, and formatting strings. | **Concept Notes** |
+| `04_data_structure` | **Core Data Structures** | Detailed notes on Lists, Tuples, Dictionaries, and Sets. | **Concept Notes** |
+| `99_exercises` | **Practice Exercises** | Focused, single-file problems designed to test and solidify understanding. | **Practice** |
+| `100_mini_projects` | **Mini Projects** | Practical applications of learned concepts through small, self-contained programs. | **Application** |
 
 ---
 ## 🧑‍💻 How to Use This Repository
@@ -28,12 +28,12 @@ The primary goal of this repository is to create a comprehensive, easily referen
 git clone [Your Repository URL Here]
 ```
 ### Navigate to a Topic:
-The concepts are organized by number (e.g., `01_Fundamentals`, `02_ControlFlow`).
+The concepts are organized by number (e.g., `01_fundamentals`, `02_control_flow`).
 
 ### Run the File:
 To execute any Python file (`.py`), navigate into the folder and run it from your terminal:
 ```bash
-python 01_Fundamentals/datatypes.py
+python 01_fundamentals/datatypes.py
 ```
 
 ---
