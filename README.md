@@ -25,7 +25,7 @@ The primary goal of this repository is to create a comprehensive, easily referen
 
 ### Clone the Repo:
 ```bash
-git clone [Your Repository URL Here]
+git clone https://github.com/HaiqalAly/Learn-Python-Basics
 ```
 ### Navigate to a Topic:
 The concepts are organized by number (e.g., `01_fundamentals`, `02_control_flow`).
